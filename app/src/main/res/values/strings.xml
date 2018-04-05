@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="error_no_accel">Unfortunately this device does not have an accelerometer(Change Device).</string>
+    <string name="error_no_vibrator">Unfortunately this device does not have a vibrator(Change Device).</string>
+</resources>
